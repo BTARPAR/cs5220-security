@@ -48,7 +48,7 @@
 
     <filter-mapping>
         <filter-name>SampleFilter</filter-name>
-        <url-pattern>/SampleFilter</url-pattern>
+        <url-pattern>/filtered/*</url-pattern>
     </filter-mapping>
 
 </web-app>
